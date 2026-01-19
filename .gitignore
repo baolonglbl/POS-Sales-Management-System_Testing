@@ -2,7 +2,7 @@
 node_modules/
 package-lock.json
 
-# Environment variables (NHẠY CẢM - KHÔNG BAO GIỜ COMMIT)
+# Environment variables 
 .env
 .env.local
 .env.*.local
